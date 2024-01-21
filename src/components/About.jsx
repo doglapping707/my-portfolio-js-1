@@ -1,4 +1,4 @@
-import ProfileImg from "../assets/profile.jpg";
+import ProfileImg from "../assets/profile.jpeg";
 import {Scroll} from '../scripts/scrollReveal.js'
 
 const About = () => {
