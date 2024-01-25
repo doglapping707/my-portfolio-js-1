@@ -32,7 +32,7 @@ const Footer = () => {
                 {/* TO DO: remove this entire paragraph once you finish your portfolio */}
                 <p class="mt-3 pt-3">
                     <GitHubButton 
-                        href="https://github.com/doglapping707/my-portfolio-js-1/fork"
+                        href="https://github.com/doglapping707/my-portfolio_v1/fork"
                         data-icon="octicon-repo-forked" 
                         data-size="large" 
                         data-show-count="true" 
@@ -42,7 +42,7 @@ const Footer = () => {
                     </GitHubButton>
                     &nbsp;
                     <GitHubButton 
-                        href="https://github.com/doglapping707/my-portfolio-js-1" 
+                        href="https://github.com/doglapping707/my-portfolio_v1" 
                         data-icon="octicon-star" 
                         data-size="large" 
                         data-show-count="true" 
